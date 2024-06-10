@@ -1,0 +1,7 @@
+{
+	"type": "module",
+	"dependencies": {
+		"@ngrok/ngrok": "^1.3.0",
+		"axios": "^1.7.2"
+	}
+}
